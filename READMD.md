@@ -28,8 +28,9 @@ npm install --save-dev lite-server
 <br>
 
 ### TypeScript 관찰 모드 
-```javascript
-tsc 파일이름.ts --watch or tsc 파일이름.ts --w
+
+```
+ tsc 파일이름.ts --watch or tsc 파일이름.ts --w
 ```
 규모가 큰 프로젝트에서는 이 방법을 사용하지는 않음 
 
