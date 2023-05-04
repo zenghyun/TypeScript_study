@@ -1,0 +1,1 @@
+### [제네릭 관련 정보](https://www.typescriptlang.org/docs/handbook/generics.html)
