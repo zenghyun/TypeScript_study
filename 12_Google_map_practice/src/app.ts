@@ -3,7 +3,7 @@ import axios from "axios";
 const form = document.querySelector("form")!;
 const address = document.getElementById("address")! as HTMLInputElement;
 
-const GOOGLE_API_KEY = "발급받은 API KEY";
+const GOOGLE_API_KEY = "AIzaSyCxcO08IzP5g6XpfgeNwSD9IuTlBK6lfS8";
 
 declare var google: any; 
 
