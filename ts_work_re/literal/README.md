@@ -1,0 +1,1 @@
+[enum이란?](https://despiteallthat.tistory.com/204)
