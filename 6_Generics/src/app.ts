@@ -95,7 +95,8 @@ function createCourseGoal(
     courseGoal.completeUntil = date;
     return courseGoal as CourseGoal;
 }
-
+const date = new Date();
+console.log(createCourseGoal('zenghyun', '1', date));
 const names: Readonly<string[]> = ['Zenghyun', 'Max'];
 //  names.push('Manu');
 // names.pop();
