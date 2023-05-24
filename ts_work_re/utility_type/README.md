@@ -1,0 +1,1 @@
+## [Utility Type이란?](https://despiteallthat.tistory.com/219)
