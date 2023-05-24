@@ -1,4 +1,4 @@
-## TypeScript_Study 🔥🔥
+ts## TypeScript_Study 🔥🔥
 
 
 <br>
