@@ -1,5 +1,6 @@
-ts## TypeScript_Study 🔥🔥
+# TypeScript_Study 🔥🔥
 
+## [TypeScript_Study](https://despiteallthat.tistory.com/category/TypeScript)
 
 <br>
 
